@@ -12,3 +12,4 @@ Carried out Exploratory Data Analysis,to discover hidden patterns within the dat
 
 Elysee ranked the most expensive neighbourhood while Menilmontant ranked least expensive neighbourhood.
 
+Still,Elysee had the 
