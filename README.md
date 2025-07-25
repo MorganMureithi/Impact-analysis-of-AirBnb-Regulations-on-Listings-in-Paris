@@ -1,3 +1,3 @@
-This is world's AirBnb Data.The focus is to check on the impact of Paris 2015 Airbnb regulations on Airbnb Listings within Paris.
-I used Python to clean,perform EDA and visualizaion.
-And later made conclusions based on the findings obtained from herein.
+In 2015,Paris put up laws around Airbnbs.
+This analysis,is to examine the effect of these laws around  AirBnb listings in Paris' neighbourhoods.
+
