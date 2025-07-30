@@ -9,7 +9,7 @@ This analysis,is to examine the effect of these laws around listings of AirBnb i
 
 **Outcome**
 
-The number of hosts in AirBnbs reduced significantly,after the enforcement of the regulations in 2015.From 12,417 hosts in 2014 to 5694 in 2019.In less than 5 years ,Paris Experienced about 54 % decline in vistiors into AirBnbs.
+The number of hosts in AirBnbs reduced significantly,after the enforcement of the regulations in 2015.From 12,417 hosts in 2015 to 5694 in 2019.In less than 5 years ,Paris Experienced about 54 % decline in vistiors into AirBnbs.
 
 This is against a consistent rise in AirBnb opters from its first group of hosts of 4 in 2008 to 10,922 in 2014.
 
