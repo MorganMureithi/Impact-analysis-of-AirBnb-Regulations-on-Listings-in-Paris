@@ -6,31 +6,22 @@ Hence regulations were put in place to limit the period temporary-renting (AirBn
 
 This analysis,is to examine the effect of these laws around  AirBnb listings in Paris' neighbourhoods.
 
-**Analysis**
-
-Analysed the data using Python via Jupyter notebook.
-
-Carried out Exploratory Data Analysis,to discover hidden patterns within the dataset and draw up conclusions.
-
-Elysee ranked the most expensive neighbourhood while Menilmontant ranked least expensive neighbourhood.
 
 **Outcome**
 
-The number of hosts in AirBnbs reduced significantly,after the enforcement of the regulations in 2015,
+The number of hosts in AirBnbs reduced significantly,after the enforcement of the regulations in 2015.From 12,417 hosts to 5694in 2019.In less than  years ,Paris Eperienced about 54 % decline in vistiors who opted for AirBnbs while they were in Paris.
 
-yet,there was a continuing rise in hosts in the previous years under review.
+This is against a great rise in AirBnb opters from its first group of hosts in 2008,4 to 133 hosts in 2021.
+yet,there was a continuing rise in hosts from 4 in 2008 to 10,922 in 2014.
 
-On rates/price,the price was of accomodation into these AirBnbs wwas declining year on year up until 2015.
-
-This can be attributed to a more and more supply of these units in the market,hence,pulling the accomodation rates down.
-
-However, after the encatment of the strict laws,the number of host shaprly fell and has never recorved to its previous state of occupants
-
-into these units,as before the laws.
+However, after the encatment of the strict laws,the number of host shaprly fell and has never recorved to its previous state of occupants into these units,as before the laws.
 
 The situtation was exacebeted by Covid-19 pandemic.
 
 **Summary**
 
 These regulations had an a negative effect on AirBnb line of business in Paris.
+
+**Recommednations**
+The Authorities in Paris,ought to strive a WIN-WIN stituation in policy making,as it seeks to eqaully balance the interest of the general population without geopardising a promising economic mine -AirBnbs,considering Paris is popular and famous tourist destinatin worlwide.
 
