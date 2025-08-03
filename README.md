@@ -25,3 +25,7 @@ These regulations had a negative effect on the AirBnb line of business in Paris.
 
 The Authorities in Paris,ought to strive for a WIN-WIN stituation in policy making,as it seeks to equally balance the interest of the general population without geopardising a promising economic mine -AirBnbs,considering Paris is a popular and famous tourist destination worlwide.
 
+**Tool used**
+
+Python
+
